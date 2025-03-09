@@ -1,2075 +1,926 @@
 {
-        "Подкатегории": [
-            {
-                "Подкатегория": "ОСТ 34.10.610-93 - ОСТ 34.10.745-93",
-                "Товары": [
-                    {
-                        "Название": "ОСТ 34-10-610-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-611-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-612-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-613-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-614-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-615-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-616-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-617-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-618-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-619-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-620-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-621-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-622-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-623-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-724-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-725-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-726-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-727-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-728-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-729-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-730-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-731-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-732-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-733-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-734-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-735-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-736-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-737-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-738-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-739-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-740-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-741-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-742-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-743-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-744-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34-10-745-93",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "ОСТ 24.125.102-01 - ОСТ 24.125.166-01",
-                "Товары": [
-                    {
-                        "Название": "ОСТ 24.125.102-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.103-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.104-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.105-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.106-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.107-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.109-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.110-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.111-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.112-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.113-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.114-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.115-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.116-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.117-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.118-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.119-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.120-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.121-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.122-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.123-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.124-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.125-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.126-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.127-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.128-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.151-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.154-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.155-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.156-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.158-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.159-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.160-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.161-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.163-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.165-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 24.125.166-01",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "ОСТ 108.275.24-80 - ОСТ 108.764.01-80",
-                "Товары": [
-                    {
-                        "Название": "ОСТ 108.275.25-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.26-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.27-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.28-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.29-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.30-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.31-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.32-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.33-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.34-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.35-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.36-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.37-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.38-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.42-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.45-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.47-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.49-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.51-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.52-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.53-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.54-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.55-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.56-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.57-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.58-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.59-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.60-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.61-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.62-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.63-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.64-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.65-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.66-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.67-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 108.275.69-80",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "ОСТ 36-146-88 опоры стальных технологических трубопроводов типа",
-                "Товары": [
-                    {
-                        "Название": "КП",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КХ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТП",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТО",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТР",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТХ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ВП",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ХБ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УП",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ШП",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КН",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 1-487-1997.00.00 для опор трубопроводов в ППУ изоляции",
-                "Товары": [
-                    {
-                        "Название": "Серия 1-487-1997.00.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "СПО",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "СПОк",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "СПОн",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ФСО1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ФСО2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 4.903-10 Выпуск 4,5,6: Изделия и детали трубопроводов для тепловых сетей",
-                "Товары": [
-                    {
-                        "Название": "Выпуск 4 (Т3, Т4, Т5, Т6, Т7, Т8, Т9, Т10, Т11, Т12, Т44, Т46)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 5 (Т13, Т14, Т15, Т16, Т17, Т18, Т19, Т20, Т21, Т43)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 6 (Т22, Т23, Т24, Т25, Т26, Т27, Т28, Т29, Т41, Т42)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 5.903-13 Выпуск 6-95, 7-95, 8-95: Изделия и детали трубопроводов для тепловых сетей",
-                "Товары": [
-                    {
-                        "Название": "Выпуск 8-95 (ТС-623.000, ТС-624.000, ТС-625.000, ТС-626.00.000, ТС-627.00.000, ТС-628.00.000, ТС-630.00.00, ТС-631.000, ТС-632.00.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 7-95 (ТС-659.00.00, ТС-660.00.00, ТС-661.00.00, ТС-662.00.00, ТС-663.00.00, ТС-664.00.00, ТС-665.00.00, ТС-666.00.00, ТС-667.00.00, ТС-668.00.00, ТС-669.00.00, ТС-670.00.00, ТС-671.00.00)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 6-95 (ТС-676.00.000, ТС-677.00.000, ТС-678.00.000, ТС-679.00.000, ТС-680.00.000, ТС-681.00.000, ТС-682.00.000, ТС-685.00.000, ТС-686.00.000, ТС-687.00.000, ТС-688.00.000, ТС-689.00.000, ТС-690.00.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "ГОСТ 14911-82 (ОСТ 36-94-83): опоры трубопроводов подвижные",
-                "Товары": [
-                    {
-                        "Название": "ОПХ1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОПХ2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОПХ3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОПП1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОПП2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОПП3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОПБ1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОПБ2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Подвески трубопровода – ГОСТ 16127-70",
-                "Товары": [
-                    {
-                        "Название": "ГОСТ 16127-70",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Подвески ПГ и ПМ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Подвески ПГ2у и ПМ2у",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Подвески ПГ2ш и ПМ2ш",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Подвески ПГВ и ПМВ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Опоры трубопроводов по стандарту СТО 79814898",
-                "Товары": [
-                    {
-                        "Название": "СТО 79814898 129-2009",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "СТО 79814898 130-2009",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "СТО 79814898 131-2009",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "СТО 79814898 132-2009",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "НТС 65-06 Опорные конструкции трубопроводов тепловых сетей",
-                "Товары": [
-                    {
-                        "Название": "Выпуск 1 (ПО-100, НПО-100; ПО-125, НПО-125; ПО-150, НПО-150; ПО-200, НПО-200; ПО-250, НПО-250; ПО-300, НПО-300; ПО-400, НПО-400; ПО-500, НПО-500; ПО-600, НПО-600; ПО-700, НПО-700; ПО-800, НПО-800; ПО-900, НПО-900; ПО-1000, НПО-1000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 2 (ОПМ-05, ОПМ-07, ОПМ-08, ОПМ-1, ОПМ-1,25, ОПМ-1,5, ОПМ-2, ОПМ-2,5, ОПМ-3, ОПМ-4, ОПМ-5, ОПМ-6, ОПМ-7, ОПМ-8, ОПМ-9, ОПМ-10)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Разгрузочные опоры",
-                "Товары": [
-                    {
-                        "Название": "Разгрузочные опоры",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Регулируемые опоры",
-                "Товары": [
-                    {
-                        "Название": "Регулируемые опоры",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Опоры ТПР",
-                "Товары": [
-                    {
-                        "Название": "ТПР.04.01(2).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.06(3).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.11(4).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.15(1).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.18(1).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.19(2).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.21(1).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.24(3).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.05.29.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.06.34(4).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.07.35.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.08.13.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.08.17(2).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.08.38.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.08.71(1).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.08.73(1).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.10.14(1).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.13.53(1).00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.14.05.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТПР.14.45.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "ОСТ 36-17-85",
-                "Товары": [
-                    {
-                        "Название": "ОВ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОВС",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОК",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОКА",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОН",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОП-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОС-1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОС-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОХ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПО",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПП-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПС-1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПС-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПО-1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПХ-1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПХ-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "СО",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ТК",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ХО",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Л8-508.000 - Л8-524.000: Опоры и подвески трубопроводов Дн <89мм",
-                "Товары": [
-                    {
-                        "Название": "Л8-508.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-509.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-510.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-511.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-512.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-513.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-514.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-515.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-517.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-518.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-519.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-522.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-523.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-524.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Л8-138.000 - Л8-200.000: Опоры и подвески станционных трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "Л8-138.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-141.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-144.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-145.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-146.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-147.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-148.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-150.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-172.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-173.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-174.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-175.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-176.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-178.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-179.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-180.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-190.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-191.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-192.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-193.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-194.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-196.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-197.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-198.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-199.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Л8-200.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Т-ММ-08-2009 (Т-ММ-08-99): Крепления технологических трубопроводов к строительным конструкциям",
-                "Товары": [
-                    {
-                        "Название": "КСК1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСК2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСК3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСК4",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСП1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСП2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСП3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСП4",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КСП5",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ6",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ7",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ8",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ9",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ10",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ11",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ12",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ13",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ14",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ15",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ16",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ17",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККЖ18",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ4",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ5",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ6",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ7",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ8",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ9",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ10",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ11",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ12",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ13",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ14",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПМ15",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ККМ1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КП1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КП2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КП3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КП4",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КП5",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП4",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП5",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП6",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП7",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП8",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП9",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КПП10",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КРП1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КРП2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "КБП1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОУ",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОБ-1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОБ-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "П-О1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПО-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ПО-3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-4",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-5",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-6",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-7",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-8",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-9",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-10",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-11",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-12",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-13",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-14",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-15",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-16",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-17",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-18",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-19",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-20",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-21",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-22",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-23",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-24",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Ш-25",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Мк-1",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Мк-2",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Мк-3",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Мк-4",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Мк-5",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Мк-6",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "РИДФ.301525.001 ТУ: Подвески судовых трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "Тип I (&#8544;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип II (&#8545;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип III (&#8546;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип IV (&#8547;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип V (&#8548;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип VI (&#8549;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип VII (&#8550;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип VIII (&#8551;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Тип IX (&#8552;)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Судовые пружинные подвески ИЕАШ",
-                "Товары": [
-                    {
-                        "Название": "1А ИЕАШ.363431.007 (551-03.175)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "2А ИЕАШ.363431.009 (551-03.177)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Каталог №0312: Детали стальных трубопроводов на Ру до 10 Мпа. Подвески",
-                "Товары": [
-                    {
-                        "Название": "0312.01.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.02.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.03.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.04.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.05.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.06.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.07.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.08.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.09.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.10.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.11.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.12.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.13.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.14.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.15.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.16.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.17.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.18.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.19.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.20.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.21.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.22.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.23.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.24.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.25.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.26.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.27.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.28.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.29.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.30.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.31.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.32.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.33.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.34.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.35.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.36.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.37.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.38.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.39.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.40.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.41.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.42.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.43.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.44.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.45.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.46.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.47.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.48.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.49.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.50.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.51.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.52.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "0312.53.00.000",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "МН3941-62 - МН3967-62: Детали и узлы подвесок стальных трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "МН 3941-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3942-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3943-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3944-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3945-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3946-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3947-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3948-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3949-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3950-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3951-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3952-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3953-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3954-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3955-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3956-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3957-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3958-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3959-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3960-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3961-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3962-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3963-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3964-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3965-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "МН 3966-62",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "ОСТ 34-256-75 - ОСТ 34-297-75: Опоры и подвески станционных трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "ОСТ 34 256-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 257-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 258-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 259-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 260-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 264-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 265-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 266-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 267-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 268-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 269-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 273-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 276-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 280-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 281-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 283-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 287-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 288-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 289-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 290-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 295-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 296-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "ОСТ 34 297-75",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 3.900-9: Опорные конструкции и средства крепления трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "Выпуск 1 (A14Б 342.000–363.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 2 (A14Б 364.000–380.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 3 (A14Б 381.000–411.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 4 (A14Б 412.000–443.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 4.900-9 Выпуск 1: Узлы и детали трубопроводов из пластмассовых труб для систем водоснабжения и канализации",
-                "Товары": [
-                    {
-                        "Название": "A14Б 289.000–327.000 (все позиции по порядку: 289.000, 290.000 … 327.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 5.900-7: Опорные конструкции и средства крепления стальных трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "Выпуск 1 (A14Б 505.000–522.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 2 (A14Б 523.000–539.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 3 (A14Б 540.000–565.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Выпуск 4 (A14Б 566.000–594.000)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 5.908-1: Типовые узлы крепления трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "АПЭ 1377.0–1413.0",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 5.908-2: Типовые узлы крепления трубопроводов",
-                "Товары": [
-                    {
-                        "Название": "АПЭ 1550.0–1587.0",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 5.905 - 18-05: Узлы и детали крепления газопроводов",
-                "Товары": [
-                    {
-                        "Название": "УКГ 1.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 2.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 3.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 4.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 5.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 6.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 7.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 8.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 9.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 10.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 11.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 12.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 13.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 14.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 15.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 16.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 17.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "УКГ 18.00",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Серия 5.904-1 выпуск 1: Детали крепления воздуховодов",
-                "Товары": [
-                    {
-                        "Название": "Часть 1 (1КГВ, 2КГВ, 3КГВ, 3КГВ-А, 3КГВ-Б, 4КГВ, 4КГВ-А, 4КГВ-Б, 5КГВ, 6КГВ, 7КГВ, 8КГВ, 1КВВ, 2КВВ, 3КВВ, 3КВВ-А, 3КВВ-Б, 4КВВ, 4КВВ-А, 4КВВ-Б, 5КВВ, 6КВВ, 7КВВ, 8КВВ)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "Часть 2 (1ФО, 2ФО, 1Ш, 1Х, 2Х, 3Х, 4Х, 2ТЯ, 4ТЯ, 1ПЛ, 1Т, 1ПС, 1С, 1Ц, 2Ц, 2КР, 6КР, 11КР)",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            },
-            {
-                "Подкатегория": "Опоры для трубопроводов SFS",
-                "Товары": [
-                    {
-                        "Название": "SFS 5370",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "SFS 5371",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "SFS 5372",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "SFS 5373",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "SFS 5374",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "SFS 5375",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "SFS 5376",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    },
-                    {
-                        "Название": "SFS 5377",
-                        "Изображение": "https://i.postimg.cc/mgs2xqLq/noimage-product.png"
-                    }
-                ]
-            }
-        ]
+  "Подкатегории": [
+    {
+      "Подкатегория": "ОСТ 34.10.610-93 - ОСТ 34.10.745-93",
+      "Товары": [
+        { "Название": "ОСТ 34-10-610-93" },
+        { "Название": "ОСТ 34-10-611-93" },
+        { "Название": "ОСТ 34-10-612-93" },
+        { "Название": "ОСТ 34-10-613-93" },
+        { "Название": "ОСТ 34-10-614-93" },
+        { "Название": "ОСТ 34-10-615-93" },
+        { "Название": "ОСТ 34-10-616-93" },
+        { "Название": "ОСТ 34-10-617-93" },
+        { "Название": "ОСТ 34-10-618-93" },
+        { "Название": "ОСТ 34-10-619-93" },
+        { "Название": "ОСТ 34-10-620-93" },
+        { "Название": "ОСТ 34-10-621-93" },
+        { "Название": "ОСТ 34-10-622-93" },
+        { "Название": "ОСТ 34-10-623-93" },
+        { "Название": "ОСТ 34-10-724-93" },
+        { "Название": "ОСТ 34-10-725-93" },
+        { "Название": "ОСТ 34-10-726-93" },
+        { "Название": "ОСТ 34-10-727-93" },
+        { "Название": "ОСТ 34-10-728-93" },
+        { "Название": "ОСТ 34-10-729-93" },
+        { "Название": "ОСТ 34-10-730-93" },
+        { "Название": "ОСТ 34-10-731-93" },
+        { "Название": "ОСТ 34-10-732-93" },
+        { "Название": "ОСТ 34-10-733-93" },
+        { "Название": "ОСТ 34-10-734-93" },
+        { "Название": "ОСТ 34-10-735-93" },
+        { "Название": "ОСТ 34-10-736-93" },
+        { "Название": "ОСТ 34-10-737-93" },
+        { "Название": "ОСТ 34-10-738-93" },
+        { "Название": "ОСТ 34-10-739-93" },
+        { "Название": "ОСТ 34-10-740-93" },
+        { "Название": "ОСТ 34-10-741-93" },
+        { "Название": "ОСТ 34-10-742-93" },
+        { "Название": "ОСТ 34-10-743-93" },
+        { "Название": "ОСТ 34-10-744-93" },
+        { "Название": "ОСТ 34-10-745-93" }
+      ]
+    },
+    {
+      "Подкатегория": "ОСТ 24.125.102-01 - ОСТ 24.125.166-01",
+      "Товары": [
+        { "Название": "ОСТ 24.125.102-01" },
+        { "Название": "ОСТ 24.125.103-01" },
+        { "Название": "ОСТ 24.125.104-01" },
+        { "Название": "ОСТ 24.125.105-01" },
+        { "Название": "ОСТ 24.125.106-01" },
+        { "Название": "ОСТ 24.125.107-01" },
+        { "Название": "ОСТ 24.125.109-01" },
+        { "Название": "ОСТ 24.125.110-01" },
+        { "Название": "ОСТ 24.125.111-01" },
+        { "Название": "ОСТ 24.125.112-01" },
+        { "Название": "ОСТ 24.125.113-01" },
+        { "Название": "ОСТ 24.125.114-01" },
+        { "Название": "ОСТ 24.125.115-01" },
+        { "Название": "ОСТ 24.125.116-01" },
+        { "Название": "ОСТ 24.125.117-01" },
+        { "Название": "ОСТ 24.125.118-01" },
+        { "Название": "ОСТ 24.125.119-01" },
+        { "Название": "ОСТ 24.125.120-01" },
+        { "Название": "ОСТ 24.125.121-01" },
+        { "Название": "ОСТ 24.125.122-01" },
+        { "Название": "ОСТ 24.125.123-01" },
+        { "Название": "ОСТ 24.125.124-01" },
+        { "Название": "ОСТ 24.125.125-01" },
+        { "Название": "ОСТ 24.125.126-01" },
+        { "Название": "ОСТ 24.125.127-01" },
+        { "Название": "ОСТ 24.125.128-01" },
+        { "Название": "ОСТ 24.125.151-01" },
+        { "Название": "ОСТ 24.125.154-01" },
+        { "Название": "ОСТ 24.125.155-01" },
+        { "Название": "ОСТ 24.125.156-01" },
+        { "Название": "ОСТ 24.125.158-01" },
+        { "Название": "ОСТ 24.125.159-01" },
+        { "Название": "ОСТ 24.125.160-01" },
+        { "Название": "ОСТ 24.125.161-01" },
+        { "Название": "ОСТ 24.125.163-01" },
+        { "Название": "ОСТ 24.125.165-01" },
+        { "Название": "ОСТ 24.125.166-01" }
+      ]
+    },
+    {
+      "Подкатегория": "ОСТ 108.275.24-80 - ОСТ 108.764.01-80",
+      "Товары": [
+        { "Название": "ОСТ 108.275.25-80" },
+        { "Название": "ОСТ 108.275.26-80" },
+        { "Название": "ОСТ 108.275.27-80" },
+        { "Название": "ОСТ 108.275.28-80" },
+        { "Название": "ОСТ 108.275.29-80" },
+        { "Название": "ОСТ 108.275.30-80" },
+        { "Название": "ОСТ 108.275.31-80" },
+        { "Название": "ОСТ 108.275.32-80" },
+        { "Название": "ОСТ 108.275.33-80" },
+        { "Название": "ОСТ 108.275.34-80" },
+        { "Название": "ОСТ 108.275.35-80" },
+        { "Название": "ОСТ 108.275.36-80" },
+        { "Название": "ОСТ 108.275.37-80" },
+        { "Название": "ОСТ 108.275.38-80" },
+        { "Название": "ОСТ 108.275.42-80" },
+        { "Название": "ОСТ 108.275.45-80" },
+        { "Название": "ОСТ 108.275.47-80" },
+        { "Название": "ОСТ 108.275.49-80" },
+        { "Название": "ОСТ 108.275.51-80" },
+        { "Название": "ОСТ 108.275.52-80" },
+        { "Название": "ОСТ 108.275.53-80" },
+        { "Название": "ОСТ 108.275.54-80" },
+        { "Название": "ОСТ 108.275.55-80" },
+        { "Название": "ОСТ 108.275.56-80" },
+        { "Название": "ОСТ 108.275.57-80" },
+        { "Название": "ОСТ 108.275.58-80" },
+        { "Название": "ОСТ 108.275.59-80" },
+        { "Название": "ОСТ 108.275.60-80" },
+        { "Название": "ОСТ 108.275.61-80" },
+        { "Название": "ОСТ 108.275.62-80" },
+        { "Название": "ОСТ 108.275.63-80" },
+        { "Название": "ОСТ 108.275.64-80" },
+        { "Название": "ОСТ 108.275.65-80" },
+        { "Название": "ОСТ 108.275.66-80" },
+        { "Название": "ОСТ 108.275.67-80" },
+        { "Название": "ОСТ 108.275.69-80" }
+      ]
+    },
+    {
+      "Подкатегория": "ОСТ 36-146-88 опоры стальных технологических трубопроводов типа",
+      "Товары": [
+        { "Название": "КП" },
+        { "Название": "КХ" },
+        { "Название": "ТП" },
+        { "Название": "ТО" },
+        { "Название": "ТР" },
+        { "Название": "ТХ" },
+        { "Название": "ВП" },
+        { "Название": "ХБ" },
+        { "Название": "УП" },
+        { "Название": "ШП" },
+        { "Название": "КН" }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 1-487-1997.00.00 для опор трубопроводов в ППУ изоляции",
+      "Товары": [
+        { "Название": "Серия 1-487-1997.00.00" },
+        { "Название": "СПО" },
+        { "Название": "СПОк" },
+        { "Название": "СПОн" },
+        { "Название": "ФСО1" },
+        { "Название": "ФСО2" }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 4.903-10 Выпуск 4,5,6: Изделия и детали трубопроводов для тепловых сетей",
+      "Товары": [
+        {
+          "Подкатегория": "Выпуск 4",
+          "Товары": [
+            { "Название": "Т3" },
+            { "Название": "Т4" },
+            { "Название": "Т5" },
+            { "Название": "Т6" },
+            { "Название": "Т7" },
+            { "Название": "Т8" },
+            { "Название": "Т9" },
+            { "Название": "Т10" },
+            { "Название": "Т11" },
+            { "Название": "Т12" },
+            { "Название": "Т44" },
+            { "Название": "Т46" }
+          ]
+        },
+        {
+          "Подкатегория": "Выпуск 5",
+          "Товары": [
+            { "Название": "Т13" },
+            { "Название": "Т14" },
+            { "Название": "Т15" },
+            { "Название": "Т16" },
+            { "Название": "Т17" },
+            { "Название": "Т18" },
+            { "Название": "Т19" },
+            { "Название": "Т20" },
+            { "Название": "Т21" },
+            { "Название": "Т43" }
+          ]
+        },
+        {
+          "Подкатегория": "Выпуск 6",
+          "Товары": [
+            { "Название": "Т22" },
+            { "Название": "Т23" },
+            { "Название": "Т24" },
+            { "Название": "Т25" },
+            { "Название": "Т26" },
+            { "Название": "Т27" },
+            { "Название": "Т28" },
+            { "Название": "Т29" },
+            { "Название": "Т41" },
+            { "Название": "Т42" }
+          ]
+        }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 5.903-13 Выпуск 6-95, 7-95, 8-95: Изделия и детали трубопроводов для тепловых сетей",
+      "Товары": [
+        {
+          "Подкатегория": "Выпуск 8-95",
+          "Товары": [
+            { "Название": "ТС-623.000" },
+            { "Название": "ТС-624.000" },
+            { "Название": "ТС-625.000" },
+            { "Название": "ТС-626.00.000" },
+            { "Название": "ТС-627.00.000" },
+            { "Название": "ТС-628.00.000" },
+            { "Название": "ТС-630.00.00" },
+            { "Название": "ТС-631.000" },
+            { "Название": "ТС-632.00.000" }
+          ]
+        },
+        {
+          "Подкатегория": "Выпуск 7-95",
+          "Товары": [
+            { "Название": "ТС-659.00.00" },
+            { "Название": "ТС-660.00.00" },
+            { "Название": "ТС-661.00.00" },
+            { "Название": "ТС-662.00.00" },
+            { "Название": "ТС-663.00.00" },
+            { "Название": "ТС-664.00.00" },
+            { "Название": "ТС-665.00.00" },
+            { "Название": "ТС-666.00.00" },
+            { "Название": "ТС-667.00.00" },
+            { "Название": "ТС-668.00.00" },
+            { "Название": "ТС-669.00.00" },
+            { "Название": "ТС-670.00.00" },
+            { "Название": "ТС-671.00.00" }
+          ]
+        },
+        {
+          "Подкатегория": "Выпуск 6-95",
+          "Товары": [
+            { "Название": "ТС-676.00.000" },
+            { "Название": "ТС-677.00.000" },
+            { "Название": "ТС-678.00.000" },
+            { "Название": "ТС-679.00.000" },
+            { "Название": "ТС-680.00.000" },
+            { "Название": "ТС-681.00.000" },
+            { "Название": "ТС-682.00.000" },
+            { "Название": "ТС-685.00.000" },
+            { "Название": "ТС-686.00.000" },
+            { "Название": "ТС-687.00.000" },
+            { "Название": "ТС-688.00.000" },
+            { "Название": "ТС-689.00.000" },
+            { "Название": "ТС-690.00.000" }
+          ]
+        }
+      ]
+    },
+    {
+      "Подкатегория": "ГОСТ 14911-82 (ОСТ 36-94-83): опоры трубопроводов подвижные",
+      "Товары": [
+        { "Название": "ОПХ1" },
+        { "Название": "ОПХ2" },
+        { "Название": "ОПХ3" },
+        { "Название": "ОПП1" },
+        { "Название": "ОПП2" },
+        { "Название": "ОПП3" },
+        { "Название": "ОПБ1" },
+        { "Название": "ОПБ2" }
+      ]
+    },
+    {
+      "Подкатегория": "Подвески трубопровода – ГОСТ 16127-70",
+      "Товары": [
+        { "Название": "ГОСТ 16127-70" },
+        { "Название": "Подвески ПГ и ПМ" },
+        { "Название": "Подвески ПГ2у и ПМ2у" },
+        { "Название": "Подвески ПГ2ш и ПМ2ш" },
+        { "Название": "Подвески ПГВ и ПМВ" }
+      ]
+    },
+    {
+      "Подкатегория": "Опоры трубопроводов по стандарту СТО 79814898",
+      "Товары": [
+        { "Название": "СТО 79814898 129-2009" },
+        { "Название": "СТО 79814898 130-2009" },
+        { "Название": "СТО 79814898 131-2009" },
+        { "Название": "СТО 79814898 132-2009" }
+      ]
+    },
+    {
+      "Подкатегория": "НТС 65-06 Опорные конструкции трубопроводов тепловых сетей",
+      "Товары": [
+        { "Название": "Выпуск 1 (ПО-100, НПО-100; ПО-125, НПО-125; ПО-150, НПО-150; ПО-200, НПО-200; ПО-250, НПО-250; ПО-300, НПО-300; ПО-400, НПО-400; ПО-500, НПО-500; ПО-600, НПО-600; ПО-700, НПО-700; ПО-800, НПО-800; ПО-900, НПО-900; ПО-1000, НПО-1000)" },
+        { "Название": "Выпуск 2 (ОПМ-05, ОПМ-07, ОПМ-08, ОПМ-1, ОПМ-1,25, ОПМ-1,5, ОПМ-2, ОПМ-2,5, ОПМ-3, ОПМ-4, ОПМ-5, ОПМ-6, ОПМ-7, ОПМ-8, ОПМ-9, ОПМ-10)" }
+      ]
+    },
+    {
+      "Подкатегория": "Разгрузочные опоры",
+      "Товары": [
+        { "Название": "Разгрузочные опоры" }
+      ]
+    },
+    {
+      "Подкатегория": "Регулируемые опоры",
+      "Товары": [
+        { "Название": "Регулируемые опоры" }
+      ]
+    },
+    {
+      "Подкатегория": "Опоры ТПР",
+      "Товары": [
+        { "Название": "ТПР.04.01(2).00.000" },
+        { "Название": "ТПР.05.06(3).00.000" },
+        { "Название": "ТПР.05.11(4).00.000" },
+        { "Название": "ТПР.05.15(1).00.000" },
+        { "Название": "ТПР.05.18(1).00.000" },
+        { "Название": "ТПР.05.19(2).00.000" },
+        { "Название": "ТПР.05.21(1).00.000" },
+        { "Название": "ТПР.05.24(3).00.000" },
+        { "Название": "ТПР.05.29.00.000" },
+        { "Название": "ТПР.06.34(4).00.000" },
+        { "Название": "ТПР.07.35.00.000" },
+        { "Название": "ТПР.08.13.00.000" },
+        { "Название": "ТПР.08.17(2).00.000" },
+        { "Название": "ТПР.08.38.00.000" },
+        { "Название": "ТПР.08.71(1).00.000" },
+        { "Название": "ТПР.08.73(1).00.000" },
+        { "Название": "ТПР.10.14(1).00.000" },
+        { "Название": "ТПР.13.53(1).00.000" },
+        { "Название": "ТПР.14.05.00.000" },
+        { "Название": "ТПР.14.45.00.000" }
+      ]
+    },
+    {
+      "Подкатегория": "ОСТ 36-17-85",
+      "Товары": [
+        { "Название": "ОВ" },
+        { "Название": "ОВС" },
+        { "Название": "ОК" },
+        { "Название": "ОКА" },
+        { "Название": "ОН" },
+        { "Название": "ОП-2" },
+        { "Название": "ОС-1" },
+        { "Название": "ОС-2" },
+        { "Название": "ОХ" },
+        { "Название": "ПО" },
+        { "Название": "ПП-2" },
+        { "Название": "ПС-1" },
+        { "Название": "ПС-2" },
+        { "Название": "ПО-1" },
+        { "Название": "ПХ-1" },
+        { "Название": "ПХ-2" },
+        { "Название": "СО" },
+        { "Название": "ТК" },
+        { "Название": "ХО" }
+      ]
+    },
+    {
+      "Подкатегория": "Л8-508.000 - Л8-524.000: Опоры и подвески трубопроводов Дн <89мм",
+      "Товары": [
+        { "Название": "Л8-508.000" },
+        { "Название": "Л8-509.000" },
+        { "Название": "Л8-510.000" },
+        { "Название": "Л8-511.000" },
+        { "Название": "Л8-512.000" },
+        { "Название": "Л8-513.000" },
+        { "Название": "Л8-514.000" },
+        { "Название": "Л8-515.000" },
+        { "Название": "Л8-517.000" },
+        { "Название": "Л8-518.000" },
+        { "Название": "Л8-519.000" },
+        { "Название": "Л8-522.000" },
+        { "Название": "Л8-523.000" },
+        { "Название": "Л8-524.000" }
+      ]
+    },
+    {
+      "Подкатегория": "Л8-138.000 - Л8-200.000: Опоры и подвески станционных трубопроводов",
+      "Товары": [
+        { "Название": "Л8-138.000" },
+        { "Название": "Л8-141.000" },
+        { "Название": "Л8-144.000" },
+        { "Название": "Л8-145.000" },
+        { "Название": "Л8-146.000" },
+        { "Название": "Л8-147.000" },
+        { "Название": "Л8-148.000" },
+        { "Название": "Л8-150.000" },
+        { "Название": "Л8-172.000" },
+        { "Название": "Л8-173.000" },
+        { "Название": "Л8-174.000" },
+        { "Название": "Л8-175.000" },
+        { "Название": "Л8-176.000" },
+        { "Название": "Л8-178.000" },
+        { "Название": "Л8-179.000" },
+        { "Название": "Л8-180.000" },
+        { "Название": "Л8-190.000" },
+        { "Название": "Л8-191.000" },
+        { "Название": "Л8-192.000" },
+        { "Название": "Л8-193.000" },
+        { "Название": "Л8-194.000" },
+        { "Название": "Л8-196.000" },
+        { "Название": "Л8-197.000" },
+        { "Название": "Л8-198.000" },
+        { "Название": "Л8-199.000" },
+        { "Название": "Л8-200.000" }
+      ]
+    },
+    {
+      "Подкатегория": "Т-ММ-08-2009 (Т-ММ-08-99): Крепления технологических трубопроводов к строительным конструкциям",
+      "Товары": [
+        { "Название": "КСК1" },
+        { "Название": "КСК2" },
+        { "Название": "КСК3" },
+        { "Название": "КСК4" },
+        { "Название": "КСП1" },
+        { "Название": "КСП2" },
+        { "Название": "КСП3" },
+        { "Название": "КСП4" },
+        { "Название": "КСП5" },
+        { "Название": "ККЖ1" },
+        { "Название": "ККЖ2" },
+        { "Название": "ККЖ6" },
+        { "Название": "ККЖ7" },
+        { "Название": "ККЖ8" },
+        { "Название": "ККЖ9" },
+        { "Название": "ККЖ10" },
+        { "Название": "ККЖ11" },
+        { "Название": "ККЖ12" },
+        { "Название": "ККЖ13" },
+        { "Название": "ККЖ14" },
+        { "Название": "ККЖ15" },
+        { "Название": "ККЖ16" },
+        { "Название": "ККЖ17" },
+        { "Название": "ККЖ18" },
+        { "Название": "КПМ1" },
+        { "Название": "КПМ2" },
+        { "Название": "КПМ3" },
+        { "Название": "КПМ4" },
+        { "Название": "КПМ5" },
+        { "Название": "КПМ6" },
+        { "Название": "КПМ7" },
+        { "Название": "КПМ8" },
+        { "Название": "КПМ9" },
+        { "Название": "КПМ10" },
+        { "Название": "КПМ11" },
+        { "Название": "КПМ12" },
+        { "Название": "КПМ13" },
+        { "Название": "КПМ14" },
+        { "Название": "КПМ15" },
+        { "Название": "ККМ1" },
+        { "Название": "КП1" },
+        { "Название": "КП2" },
+        { "Название": "КП3" },
+        { "Название": "КП4" },
+        { "Название": "КП5" },
+        { "Название": "КПП1" },
+        { "Название": "КПП2" },
+        { "Название": "КПП3" },
+        { "Название": "КПП4" },
+        { "Название": "КПП5" },
+        { "Название": "КПП6" },
+        { "Название": "КПП7" },
+        { "Название": "КПП8" },
+        { "Название": "КПП9" },
+        { "Название": "КПП10" },
+        { "Название": "КРП1" },
+        { "Название": "КРП2" },
+        { "Название": "КБП1" },
+        { "Название": "ОУ" },
+        { "Название": "ОБ-1" },
+        { "Название": "ОБ-2" },
+        { "Название": "П-О1" },
+        { "Название": "ПО-2" },
+        { "Название": "ПО-3" },
+        { "Название": "Ш-1" },
+        { "Название": "Ш-2" },
+        { "Название": "Ш-3" },
+        { "Название": "Ш-4" },
+        { "Название": "Ш-5" },
+        { "Название": "Ш-6" },
+        { "Название": "Ш-7" },
+        { "Название": "Ш-8" },
+        { "Название": "Ш-9" },
+        { "Название": "Ш-10" },
+        { "Название": "Ш-11" },
+        { "Название": "Ш-12" },
+        { "Название": "Ш-13" },
+        { "Название": "Ш-14" },
+        { "Название": "Ш-15" },
+        { "Название": "Ш-16" },
+        { "Название": "Ш-17" },
+        { "Название": "Ш-18" },
+        { "Название": "Ш-19" },
+        { "Название": "Ш-20" },
+        { "Название": "Ш-21" },
+        { "Название": "Ш-22" },
+        { "Название": "Ш-23" },
+        { "Название": "Ш-24" },
+        { "Название": "Ш-25" },
+        { "Название": "Мк-1" },
+        { "Название": "Мк-2" },
+        { "Название": "Мк-3" },
+        { "Название": "Мк-4" },
+        { "Название": "Мк-5" },
+        { "Название": "Мк-6" }
+      ]
+    },
+    {
+      "Подкатегория": "РИДФ.301525.001 ТУ: Подвески судовых трубопроводов",
+      "Товары": [
+        { "Название": "Тип I (Ⅰ)" },
+        { "Название": "Тип II (Ⅱ)" },
+        { "Название": "Тип III (Ⅲ)" },
+        { "Название": "Тип IV (Ⅳ)" },
+        { "Название": "Тип V (Ⅴ)" },
+        { "Название": "Тип VI (Ⅵ)" },
+        { "Название": "Тип VII (Ⅶ)" },
+        { "Название": "Тип VIII (Ⅷ)" },
+        { "Название": "Тип IX (Ⅸ)" }
+      ]
+    },
+    {
+      "Подкатегория": "Судовые пружинные подвески ИЕАШ",
+      "Товары": [
+        { "Название": "1А ИЕАШ.363431.007 (551-03.175)" },
+        { "Название": "2А ИЕАШ.363431.009 (551-03.177)" }
+      ]
+    },
+    {
+      "Подкатегория": "Каталог №0312: Детали стальных трубопроводов на Ру до 10 Мпа. Подвески",
+      "Товары": [
+        { "Название": "0312.01.00.000" },
+        { "Название": "0312.02.00.000" },
+        { "Название": "0312.03.00.000" },
+        { "Название": "0312.04.00.000" },
+        { "Название": "0312.05.00.000" },
+        { "Название": "0312.06.00.000" },
+        { "Название": "0312.07.00.000" },
+        { "Название": "0312.08.00.000" },
+        { "Название": "0312.09.00.000" },
+        { "Название": "0312.10.00.000" },
+        { "Название": "0312.11.00.000" },
+        { "Название": "0312.12.00.000" },
+        { "Название": "0312.13.00.000" },
+        { "Название": "0312.14.00.000" },
+        { "Название": "0312.15.00.000" },
+        { "Название": "0312.16.00.000" },
+        { "Название": "0312.17.00.000" },
+        { "Название": "0312.18.00.000" },
+        { "Название": "0312.19.00.000" },
+        { "Название": "0312.20.00.000" },
+        { "Название": "0312.21.00.000" },
+        { "Название": "0312.22.00.000" },
+        { "Название": "0312.23.00.000" },
+        { "Название": "0312.24.00.000" },
+        { "Название": "0312.25.00.000" },
+        { "Название": "0312.26.00.000" },
+        { "Название": "0312.27.00.000" },
+        { "Название": "0312.28.00.000" },
+        { "Название": "0312.29.00.000" },
+        { "Название": "0312.30.00.000" },
+        { "Название": "0312.31.00.000" },
+        { "Название": "0312.32.00.000" },
+        { "Название": "0312.33.00.000" },
+        { "Название": "0312.34.00.000" },
+        { "Название": "0312.35.00.000" },
+        { "Название": "0312.36.00.000" },
+        { "Название": "0312.37.00.000" },
+        { "Название": "0312.38.00.000" },
+        { "Название": "0312.39.00.000" },
+        { "Название": "0312.40.00.000" },
+        { "Название": "0312.41.00.000" },
+        { "Название": "0312.42.00.000" },
+        { "Название": "0312.43.00.000" },
+        { "Название": "0312.44.00.000" },
+        { "Название": "0312.45.00.000" },
+        { "Название": "0312.46.00.000" },
+        { "Название": "0312.47.00.000" },
+        { "Название": "0312.48.00.000" },
+        { "Название": "0312.49.00.000" },
+        { "Название": "0312.50.00.000" },
+        { "Название": "0312.51.00.000" },
+        { "Название": "0312.52.00.000" },
+        { "Название": "0312.53.00.000" }
+      ]
+    },
+    {
+      "Подкатегория": "МН3941-62 - МН3967-62: Детали и узлы подвесок стальных трубопроводов",
+      "Товары": [
+        { "Название": "МН 3941-62" },
+        { "Название": "МН 3942-62" },
+        { "Название": "МН 3943-62" },
+        { "Название": "МН 3944-62" },
+        { "Название": "МН 3945-62" },
+        { "Название": "МН 3946-62" },
+        { "Название": "МН 3947-62" },
+        { "Название": "МН 3948-62" },
+        { "Название": "МН 3949-62" },
+        { "Название": "МН 3950-62" },
+        { "Название": "МН 3951-62" },
+        { "Название": "МН 3952-62" },
+        { "Название": "МН 3953-62" },
+        { "Название": "МН 3954-62" },
+        { "Название": "МН 3955-62" },
+        { "Название": "МН 3956-62" },
+        { "Название": "МН 3957-62" },
+        { "Название": "МН 3958-62" },
+        { "Название": "МН 3959-62" },
+        { "Название": "МН 3960-62" },
+        { "Название": "МН 3961-62" },
+        { "Название": "МН 3962-62" },
+        { "Название": "МН 3963-62" },
+        { "Название": "МН 3964-62" },
+        { "Название": "МН 3965-62" },
+        { "Название": "МН 3966-62" }
+      ]
+    },
+    {
+      "Подкатегория": "ОСТ 34-256-75 - ОСТ 34-297-75: Опоры и подвески станционных трубопроводов",
+      "Товары": [
+        { "Название": "ОСТ 34 256-75" },
+        { "Название": "ОСТ 34 257-75" },
+        { "Название": "ОСТ 34 258-75" },
+        { "Название": "ОСТ 34 259-75" },
+        { "Название": "ОСТ 34 260-75" },
+        { "Название": "ОСТ 34 264-75" },
+        { "Название": "ОСТ 34 265-75" },
+        { "Название": "ОСТ 34 266-75" },
+        { "Название": "ОСТ 34 267-75" },
+        { "Название": "ОСТ 34 268-75" },
+        { "Название": "ОСТ 34 269-75" },
+        { "Название": "ОСТ 34 273-75" },
+        { "Название": "ОСТ 34 276-75" },
+        { "Название": "ОСТ 34 280-75" },
+        { "Название": "ОСТ 34 281-75" },
+        { "Название": "ОСТ 34 283-75" },
+        { "Название": "ОСТ 34 287-75" },
+        { "Название": "ОСТ 34 288-75" },
+        { "Название": "ОСТ 34 289-75" },
+        { "Название": "ОСТ 34 290-75" },
+        { "Название": "ОСТ 34 295-75" },
+        { "Название": "ОСТ 34 296-75" },
+        { "Название": "ОСТ 34 297-75" }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 3.900-9: Опорные конструкции и средства крепления трубопроводов",
+      "Товары": [
+        {
+          "Подкатегория": "Выпуск 1",
+          "Товары": [
+            { "Название": "A14Б 342.000" },
+            { "Название": "A14Б 343.000" },
+            { "Название": "A14Б 344.000" },
+            { "Название": "A14Б 345.000" },
+            { "Название": "A14Б 346.000" },
+            { "Название": "A14Б 347.000" },
+            { "Название": "A14Б 348.000" },
+            { "Название": "A14Б 349.000" },
+            { "Название": "A14Б 350.000" },
+            { "Название": "A14Б 351.000" },
+            { "Название": "A14Б 352.000" },
+            { "Название": "A14Б 353.000" },
+            { "Название": "A14Б 354.000" },
+            { "Название": "A14Б 355.000" },
+            { "Название": "A14Б 356.000" },
+            { "Название": "A14Б 357.000" },
+            { "Название": "A14Б 358.000" },
+            { "Название": "A14Б 359.000" },
+            { "Название": "A14Б 360.000" },
+            { "Название": "A14Б 361.000" },
+            { "Название": "A14Б 362.000" },
+            { "Название": "A14Б 363.000" }
+          ]
+        },
+        {
+          "Подкатегория": "Выпуск 2",
+          "Товары": [
+            { "Название": "A14Б 364.000" },
+            { "Название": "A14Б 365.000" },
+            { "Название": "A14Б 366.000" },
+            { "Название": "A14Б 367.000" },
+            { "Название": "A14Б 368.000" },
+            { "Название": "A14Б 369.000" },
+            { "Название": "A14Б 370.000" },
+            { "Название": "A14Б 371.000" },
+            { "Название": "A14Б 372.000" },
+            { "Название": "A14Б 373.000" },
+            { "Название": "A14Б 374.000" },
+            { "Название": "A14Б 375.000" },
+            { "Название": "A14Б 376.000" },
+            { "Название": "A14Б 377.000" },
+            { "Название": "A14Б 378.000" },
+            { "Название": "A14Б 379.000" },
+            { "Название": "A14Б 380.000" }
+          ]
+        },
+        {
+          "Подкатегория": "Выпуск 3",
+          "Товары": [
+            { "Название": "A14Б 381.000" },
+            { "Название": "A14Б 382.000" },
+            { "Название": "A14Б 383.000" },
+            { "Название": "A14Б 384.000" },
+            { "Название": "A14Б 385.000" },
+            { "Название": "A14Б 386.000" },
+            { "Название": "A14Б 387.000" },
+            { "Название": "A14Б 388.000" },
+            { "Название": "A14Б 389.000" },
+            { "Название": "A14Б 390.000" },
+            { "Название": "A14Б 391.000" },
+            { "Название": "A14Б 392.000" },
+            { "Название": "A14Б 393.000" },
+            { "Название": "A14Б 394.000" },
+            { "Название": "A14Б 395.000" },
+            { "Название": "A14Б 396.000" },
+            { "Название": "A14Б 397.000" },
+            { "Название": "A14Б 398.000" },
+            { "Название": "A14Б 399.000" },
+            { "Название": "A14Б 400.000" },
+            { "Название": "A14Б 401.000" },
+            { "Название": "A14Б 402.000" },
+            { "Название": "A14Б 403.000" },
+            { "Название": "A14Б 404.000" },
+            { "Название": "A14Б 405.000" },
+            { "Название": "A14Б 406.000" },
+            { "Название": "A14Б 407.000" },
+            { "Название": "A14Б 408.000" },
+            { "Название": "A14Б 409.000" },
+            { "Название": "A14Б 410.000" },
+            { "Название": "A14Б 411.000" }
+          ]
+        },
+        {
+          "Подкатегория": "Выпуск 4",
+          "Товары": [
+            { "Название": "A14Б 412.000" },
+            { "Название": "A14Б 413.000" },
+            { "Название": "A14Б 414.000" },
+            { "Название": "A14Б 415.000" },
+            { "Название": "A14Б 416.000" },
+            { "Название": "A14Б 417.000" },
+            { "Название": "A14Б 418.000" },
+            { "Название": "A14Б 419.000" },
+            { "Название": "A14Б 420.000" },
+            { "Название": "A14Б 421.000" },
+            { "Название": "A14Б 422.000" },
+            { "Название": "A14Б 423.000" },
+            { "Название": "A14Б 424.000" },
+            { "Название": "A14Б 425.000" },
+            { "Название": "A14Б 426.000" },
+            { "Название": "A14Б 427.000" },
+            { "Название": "A14Б 428.000" },
+            { "Название": "A14Б 429.000" },
+            { "Название": "A14Б 430.000" },
+            { "Название": "A14Б 431.000" },
+            { "Название": "A14Б 432.000" },
+            { "Название": "A14Б 433.000" },
+            { "Название": "A14Б 434.000" },
+            { "Название": "A14Б 435.000" },
+            { "Название": "A14Б 436.000" },
+            { "Название": "A14Б 437.000" },
+            { "Название": "A14Б 438.000" },
+            { "Название": "A14Б 439.000" },
+            { "Название": "A14Б 440.000" },
+            { "Название": "A14Б 441.000" },
+            { "Название": "A14Б 442.000" },
+            { "Название": "A14Б 443.000" }
+          ]
+        }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 4.900-9 Выпуск 1: Узлы и детали трубопроводов из пластмассовых труб для систем водоснабжения и канализации",
+      "Товары": [
+        { "Название": "A14Б 289.000" },
+        { "Название": "A14Б 290.000" },
+        { "Название": "A14Б 291.000" },
+        { "Название": "A14Б 292.000" },
+        { "Название": "A14Б 293.000" },
+        { "Название": "A14Б 294.000" },
+        { "Название": "A14Б 295.000" },
+        { "Название": "A14Б 296.000" },
+        { "Название": "A14Б 297.000" },
+        { "Название": "A14Б 298.000" },
+        { "Название": "A14Б 299.000" },
+        { "Название": "A14Б 300.000" },
+        { "Название": "A14Б 301.000" },
+        { "Название": "A14Б 302.000" },
+        { "Название": "A14Б 303.000" },
+        { "Название": "A14Б 304.000" },
+        { "Название": "A14Б 305.000" },
+        { "Название": "A14Б 306.000" },
+        { "Название": "A14Б 307.000" },
+        { "Название": "A14Б 308.000" },
+        { "Название": "A14Б 309.000" },
+        { "Название": "A14Б 310.000" },
+        { "Название": "A14Б 311.000" },
+        { "Название": "A14Б 312.000" },
+        { "Название": "A14Б 313.000" },
+        { "Название": "A14Б 314.000" },
+        { "Название": "A14Б 315.000" },
+        { "Название": "A14Б 316.000" },
+        { "Название": "A14Б 317.000" },
+        { "Название": "A14Б 318.000" },
+        { "Название": "A14Б 319.000" },
+        { "Название": "A14Б 320.000" },
+        { "Название": "A14Б 321.000" },
+        { "Название": "A14Б 322.000" },
+        { "Название": "A14Б 323.000" },
+        { "Название": "A14Б 324.000" },
+        { "Название": "A14Б 325.000" },
+        { "Название": "A14Б 326.000" },
+        { "Название": "A14Б 327.000" }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 5.908-1: Типовые узлы крепления трубопроводов",
+      "Товары": [
+        { "Название": "АПЭ 1377.0–1413.0" }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 5.908-2: Типовые узлы крепления трубопроводов",
+      "Товары": [
+        { "Название": "АПЭ 1550.0–1587.0" }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 5.905 - 18-05: Узлы и детали крепления газопроводов",
+      "Товары": [
+        { "Название": "УКГ 1.00" },
+        { "Название": "УКГ 2.00" },
+        { "Название": "УКГ 3.00" },
+        { "Название": "УКГ 4.00" },
+        { "Название": "УКГ 5.00" },
+        { "Название": "УКГ 6.00" },
+        { "Название": "УКГ 7.00" },
+        { "Название": "УКГ 8.00" },
+        { "Название": "УКГ 9.00" },
+        { "Название": "УКГ 10.00" },
+        { "Название": "УКГ 11.00" },
+        { "Название": "УКГ 12.00" },
+        { "Название": "УКГ 13.00" },
+        { "Название": "УКГ 14.00" },
+        { "Название": "УКГ 15.00" },
+        { "Название": "УКГ 16.00" },
+        { "Название": "УКГ 17.00" },
+        { "Название": "УКГ 18.00" }
+      ]
+    },
+    {
+      "Подкатегория": "Серия 5.904-1 выпуск 1: Детали крепления воздуховодов",
+      "Товары": [
+        {
+          "Подкатегория": "Часть 1",
+          "Товары": [
+            { "Название": "1КГВ" },
+            { "Название": "2КГВ" },
+            { "Название": "3КГВ" },
+            { "Название": "3КГВ-А" },
+            { "Название": "3КГВ-Б" },
+            { "Название": "4КГВ" },
+            { "Название": "4КГВ-А" },
+            { "Название": "4КГВ-Б" },
+            { "Название": "5КГВ" },
+            { "Название": "6КГВ" },
+            { "Название": "7КГВ" },
+            { "Название": "8КГВ" },
+            { "Название": "1КВВ" },
+            { "Название": "2КВВ" },
+            { "Название": "3КВВ" },
+            { "Название": "3КВВ-А" },
+            { "Название": "3КВВ-Б" },
+            { "Название": "4КВВ" },
+            { "Название": "4КВВ-А" },
+            { "Название": "4КВВ-Б" },
+            { "Название": "5КВВ" },
+            { "Название": "6КВВ" },
+            { "Название": "7КВВ" },
+            { "Название": "8КВВ" }
+          ]
+        },
+        {
+          "Подкатегория": "Часть 2",
+          "Товары": [
+            { "Название": "1ФО" },
+            { "Название": "2ФО" },
+            { "Название": "1Ш" },
+            { "Название": "1Х" },
+            { "Название": "2Х" },
+            { "Название": "3Х" },
+            { "Название": "4Х" },
+            { "Название": "2ТЯ" },
+            { "Название": "4ТЯ" },
+            { "Название": "1ПЛ" },
+            { "Название": "1Т" },
+            { "Название": "1ПС" },
+            { "Название": "1С" },
+            { "Название": "1Ц" },
+            { "Название": "2Ц" },
+            { "Название": "2КР" },
+            { "Название": "6КР" },
+            { "Название": "11КР" }
+          ]
+        }
+      ]
+    },
+    {
+      "Подкатегория": "Опоры для трубопроводов SFS",
+      "Товары": [
+        { "Название": "SFS 5370" },
+        { "Название": "SFS 5371" },
+        { "Название": "SFS 5372" },
+        { "Название": "SFS 5373" },
+        { "Название": "SFS 5374" },
+        { "Название": "SFS 5375" },
+        { "Название": "SFS 5376" },
+        { "Название": "SFS 5377" }
+      ]
+    }
+  ]
 }
